@@ -1,6 +1,6 @@
 # bucket-img-generator-AWS
 
-Proyecto de ejemplo para estudiantes que sube una imagen a S3 y usa AWS Rekognition para detectar etiquetas.
+Proyecto personal,que sube una imagen a S3 y usa AWS Rekognition para detectar etiquetas.
 
 ## Requisitos
 - Python 3.11+
